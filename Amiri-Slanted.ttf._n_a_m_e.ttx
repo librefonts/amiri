@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2010, 2012, Khaled Hosny &lt;khaledhosny@eglug.org>.&#10;Portions copyright (c) 2010, Sebastian Kosch &lt;sebastian@aldusleaf.org>&#10;&#10;This Font Software is licensed under the Open Font License, Version 1.1.
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Amiri
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Slanted
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      FontForge 2.0 : Amiri Slanted : 9-6-2012
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Amiri Slanted
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 000.104 
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Amiri-Slanted
+    </namerecord>
+    <namerecord nameID="9" platformID="1" platEncID="0" langID="0x0">
+      Khaled Hosny
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0">
+      Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://www.amirifont.org
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://www.khaledhosny.org
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2010, 2012, Khaled Hosny (&lt;khaledhosny@eglug.org>),&#10;with Reserved Font Name Amiri.&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is copied below, and is also available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;&#10;&#10;-----------------------------------------------------------&#10;SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007&#10;-----------------------------------------------------------&#10;&#10;PREAMBLE&#10;The goals of the Open Font License (OFL) are to stimulate worldwide&#10;development of collaborative font projects, to support the font creation&#10;efforts of academic and linguistic communities, and to provide a free and&#10;open framework in which fonts may be shared and improved in partnership&#10;with others.&#10;&#10;The OFL allows the licensed fonts to be used, studied, modified and&#10;redistributed freely as long as they are not sold by themselves. The&#10;fonts, including any derivative works, can be bundled, embedded, &#10;redistributed and/or sold with any software provided that any reserved&#10;names are not used by derivative works. The fonts and derivatives,&#10;however, cannot be released under any other type of license. The&#10;requirement for fonts to remain under this license does not apply&#10;to any document created using the fonts or their derivatives.&#10;&#10;DEFINITIONS&#10;"Font Software" refers to the set of files released by the Copyright&#10;Holder(s) under this license and clearly marked as such. This may&#10;include source files, build scripts and documentation.&#10;&#10;"Reserved Font Name" refers to any names specified as such after the&#10;copyright statement(s).&#10;&#10;"Original Version" refers to the collection of Font Software components as&#10;distributed by the Copyright Holder(s).&#10;&#10;"Modified Version" refers to any derivative made by adding to, deleting,&#10;or substituting -- in part or in whole -- any of the components of the&#10;Original Version, by changing formats or by porting the Font Software to a&#10;new environment.&#10;&#10;"Author" refers to any designer, engineer, programmer, technical&#10;writer or other person who contributed to the Font Software.&#10;&#10;PERMISSION &amp; CONDITIONS&#10;Permission is hereby granted, free of charge, to any person obtaining&#10;a copy of the Font Software, to use, study, copy, merge, embed, modify,&#10;redistribute, and sell modified and unmodified copies of the Font&#10;Software, subject to the following conditions:&#10;&#10;1) Neither the Font Software nor any of its individual components,&#10;in Original or Modified Versions, may be sold by itself.&#10;&#10;2) Original or Modified Versions of the Font Software may be bundled,&#10;redistributed and/or sold with any software, provided that each copy&#10;contains the above copyright notice and this license. These can be&#10;included either as stand-alone text files, human-readable headers or&#10;in the appropriate machine-readable metadata fields within text or&#10;binary files as long as those fields can be easily viewed by the user.&#10;&#10;3) No Modified Version of the Font Software may use the Reserved Font&#10;Name(s) unless explicit written permission is granted by the corresponding&#10;Copyright Holder. This restriction only applies to the primary font name as&#10;presented to the users.&#10;&#10;4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font&#10;Software shall not be used to promote, endorse or advertise any&#10;Modified Version, except to acknowledge the contribution(s) of the&#10;Copyright Holder(s) and the Author(s) or with their explicit written&#10;permission.&#10;&#10;5) The Font Software, modified or unmodified, in part or in whole,&#10;must be distributed entirely under this license, and must not be&#10;distributed under any other license. The requirement for fonts to&#10;remain under this license does not apply to any document created&#10;using the Font Software.&#10;&#10;TERMINATION&#10;This license becomes null and void if any of the above conditions are&#10;not met.&#10;&#10;DISCLAIMER&#10;THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,&#10;EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF&#10;MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT&#10;OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE&#10;COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,&#10;INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL&#10;DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING&#10;FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM&#10;OTHER DEALINGS IN THE FONT SOFTWARE.
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="19" platformID="1" platEncID="0" langID="0x0">
+                 .
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2010, 2012, Khaled Hosny &lt;khaledhosny@eglug.org>.&#10;Portions copyright (c) 2010, Sebastian Kosch &lt;sebastian@aldusleaf.org>&#10;&#10;This Font Software is licensed under the Open Font License, Version 1.1.
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Amiri
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Slanted
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      FontForge 2.0 : Amiri Slanted : 9-6-2012
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Amiri Slanted
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 000.104 
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Amiri-Slanted
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0x409">
+      Khaled Hosny
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named.
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://www.amirifont.org
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://www.khaledhosny.org
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2010, 2012, Khaled Hosny (&lt;khaledhosny@eglug.org>),&#10;with Reserved Font Name Amiri.&#10;&#10;This Font Software is licensed under the SIL Open Font License, Version 1.1.&#10;This license is copied below, and is also available with a FAQ at:&#10;http://scripts.sil.org/OFL&#10;&#10;&#10;-----------------------------------------------------------&#10;SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007&#10;-----------------------------------------------------------&#10;&#10;PREAMBLE&#10;The goals of the Open Font License (OFL) are to stimulate worldwide&#10;development of collaborative font projects, to support the font creation&#10;efforts of academic and linguistic communities, and to provide a free and&#10;open framework in which fonts may be shared and improved in partnership&#10;with others.&#10;&#10;The OFL allows the licensed fonts to be used, studied, modified and&#10;redistributed freely as long as they are not sold by themselves. The&#10;fonts, including any derivative works, can be bundled, embedded, &#10;redistributed and/or sold with any software provided that any reserved&#10;names are not used by derivative works. The fonts and derivatives,&#10;however, cannot be released under any other type of license. The&#10;requirement for fonts to remain under this license does not apply&#10;to any document created using the fonts or their derivatives.&#10;&#10;DEFINITIONS&#10;"Font Software" refers to the set of files released by the Copyright&#10;Holder(s) under this license and clearly marked as such. This may&#10;include source files, build scripts and documentation.&#10;&#10;"Reserved Font Name" refers to any names specified as such after the&#10;copyright statement(s).&#10;&#10;"Original Version" refers to the collection of Font Software components as&#10;distributed by the Copyright Holder(s).&#10;&#10;"Modified Version" refers to any derivative made by adding to, deleting,&#10;or substituting -- in part or in whole -- any of the components of the&#10;Original Version, by changing formats or by porting the Font Software to a&#10;new environment.&#10;&#10;"Author" refers to any designer, engineer, programmer, technical&#10;writer or other person who contributed to the Font Software.&#10;&#10;PERMISSION &amp; CONDITIONS&#10;Permission is hereby granted, free of charge, to any person obtaining&#10;a copy of the Font Software, to use, study, copy, merge, embed, modify,&#10;redistribute, and sell modified and unmodified copies of the Font&#10;Software, subject to the following conditions:&#10;&#10;1) Neither the Font Software nor any of its individual components,&#10;in Original or Modified Versions, may be sold by itself.&#10;&#10;2) Original or Modified Versions of the Font Software may be bundled,&#10;redistributed and/or sold with any software, provided that each copy&#10;contains the above copyright notice and this license. These can be&#10;included either as stand-alone text files, human-readable headers or&#10;in the appropriate machine-readable metadata fields within text or&#10;binary files as long as those fields can be easily viewed by the user.&#10;&#10;3) No Modified Version of the Font Software may use the Reserved Font&#10;Name(s) unless explicit written permission is granted by the corresponding&#10;Copyright Holder. This restriction only applies to the primary font name as&#10;presented to the users.&#10;&#10;4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font&#10;Software shall not be used to promote, endorse or advertise any&#10;Modified Version, except to acknowledge the contribution(s) of the&#10;Copyright Holder(s) and the Author(s) or with their explicit written&#10;permission.&#10;&#10;5) The Font Software, modified or unmodified, in part or in whole,&#10;must be distributed entirely under this license, and must not be&#10;distributed under any other license. The requirement for fonts to&#10;remain under this license does not apply to any document created&#10;using the Font Software.&#10;&#10;TERMINATION&#10;This license becomes null and void if any of the above conditions are&#10;not met.&#10;&#10;DISCLAIMER&#10;THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,&#10;EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF&#10;MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT&#10;OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE&#10;COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,&#10;INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL&#10;DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING&#10;FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM&#10;OTHER DEALINGS IN THE FONT SOFTWARE.
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="19" platformID="3" platEncID="1" langID="0x409">
+      &#1589;&#1616;&#1601;&#1618; &#1582;&#1614;&#1604;&#1618;&#1602;&#1614; &#1582;&#1614;&#1608;&#1618;&#1583;&#1613; &#1603;&#1614;&#1605;&#1616;&#1579;&#1618;&#1604;&#1616; &#1649;&#1604;&#1588;&#1617;&#1614;&#1605;&#1618;&#1587;&#1616; &#1573;&#1616;&#1584;&#1618; &#1576;&#1614;&#1586;&#1614;&#1594;&#1614;&#1578;&#1618; &#1610;&#1614;&#1581;&#1618;&#1592;&#1614;&#1609;&#1648; &#1649;&#1604;&#1590;&#1617;&#1614;&#1580;&#1616;&#1610;&#1593;&#1615; &#1576;&#1616;&#1607;&#1614;&#1575; &#1606;&#1614;&#1580;&#1618;&#1604;&#1614;&#1575;&#1569;&#1614; &#1605;&#1616;&#1593;&#1618;&#1591;&#1614;&#1575;&#1585;&#1616;.
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0xc01">
+      &#1581;&#1602;&#1608;&#1602; &#1575;&#1604;&#1606;&#1588;&#1585; 2010-2012&#1548; &#1582;&#1575;&#1604;&#1583; &#1581;&#1587;&#1606;&#1610; &lt;khaledhosny@eglug.org>.&#10;&#10;&#1578;&#1615;&#1585;&#1582;&#1617;&#1589; &#1576;&#1585;&#1605;&#1580;&#1610;&#1577; &#1575;&#1604;&#1582;&#1591; &#1607;&#1584;&#1607; &#1576;&#1585;&#1582;&#1589;&#1577; &#1575;&#1604;&#1582;&#1591;&#1608;&#1591; &#1575;&#1604;&#1581;&#1585;&#1577; &#1575;&#1604;&#1573;&#1589;&#1583;&#1575;&#1585;&#1577; 1,1.
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0xc01">
+      &#1605;&#1575;&#1574;&#1604;
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0xc01">
+      &#1573;&#1589;&#1583;&#1575;&#1585;&#1577; 000&#1643;104
+    </namerecord>
+    <namerecord nameID="9" platformID="3" platEncID="1" langID="0xc01">
+      &#1582;&#1575;&#1604;&#1583; &#1581;&#1587;&#1606;&#1610;
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0xc01">
+      &#1575;&#1604;&#1582;&#1591; &#1575;&#1604;&#1571;&#1605;&#1610;&#1585;&#1610; &#1607;&#1608; &#1573;&#1581;&#1610;&#1575;&#1569; &#1604;&#1582;&#1591; &#1575;&#1604;&#1606;&#1587;&#1582; &#1575;&#1604;&#1584;&#1610; &#1589;&#1615;&#1605;&#1605; &#1608;&#1575;&#1587;&#1578;&#1582;&#1583;&#1605; &#1604;&#1604;&#1605;&#1585;&#1577; &#1575;&#1604;&#1571;&#1608;&#1604;&#1610; &#1601;&#1610; &#1605;&#1576;&#1591;&#1593;&#1577; &#1576;&#1608;&#1604;&#1575;&#1602; &#1576;&#1575;&#1604;&#1602;&#1575;&#1607;&#1585;&#1577; )&#1578;&#1593;&#1585;&#1601; &#1571;&#1610;&#1590;&#1575; &#1576;&#1575;&#1604;&#1605;&#1591;&#1576;&#1593;&#1577; &#1575;&#1604;&#1571;&#1605;&#1610;&#1585;&#1610;&#1577;( &#1601;&#1610; &#1571;&#1608;&#1575;&#1574;&#1604; &#1575;&#1604;&#1602;&#1585;&#1606; &#1575;&#1604;&#1593;&#1588;&#1585;&#1610;&#1606;.  &#1578;&#1605;&#1610;&#1586; &#1575;&#1604;&#1582;&#1591; &#1575;&#1604;&#1571;&#1605;&#1610;&#1585;&#1610; &#1606;&#1575;&#1576;&#1593; &#1605;&#1606; &#1605;&#1608;&#1586;&#1575;&#1606;&#1578;&#1607; &#1575;&#1604;&#1605;&#1578;&#1605;&#1610;&#1586;&#1577; &#1576;&#1610;&#1606; &#1580;&#1605;&#1575;&#1604; &#1582;&#1591; &#1575;&#1604;&#1606;&#1587;&#1582; &#1608;&#1605;&#1578;&#1591;&#1604;&#1576;&#1575;&#1578; &#1575;&#1604;&#1591;&#1576;&#1575;&#1593;&#1577; &#1575;&#1604;&#1585;&#1575;&#1602;&#1610;&#1577;. &#1575;&#1604;&#1582;&#1591; &#1575;&#1604;&#1571;&#1605;&#1610;&#1585;&#1610; &#1605;&#1608;&#1580;&#1607; &#1571;&#1603;&#1579;&#1585; &#1604;&#1591;&#1576;&#1575;&#1593;&#1577; &#1575;&#1604;&#1606;&#1589;&#1608;&#1589; &#1575;&#1604;&#1591;&#1608;&#1610;&#1604;&#1577; &#1608;&#1575;&#1604;&#1603;&#1578;&#1576;.
+    </namerecord>
+    <namerecord nameID="19" platformID="3" platEncID="1" langID="0xc01">
+      &#1589;&#1616;&#1601;&#1618; &#1582;&#1614;&#1604;&#1618;&#1602;&#1614; &#1582;&#1614;&#1608;&#1618;&#1583;&#1613; &#1603;&#1614;&#1605;&#1616;&#1579;&#1618;&#1604;&#1616; &#1649;&#1604;&#1588;&#1617;&#1614;&#1605;&#1618;&#1587;&#1616; &#1573;&#1616;&#1584;&#1618; &#1576;&#1614;&#1586;&#1614;&#1594;&#1614;&#1578;&#1618; &#1610;&#1614;&#1581;&#1618;&#1592;&#1614;&#1609;&#1648; &#1649;&#1604;&#1590;&#1617;&#1614;&#1580;&#1616;&#1610;&#1593;&#1615; &#1576;&#1616;&#1607;&#1614;&#1575; &#1606;&#1614;&#1580;&#1618;&#1604;&#1614;&#1575;&#1569;&#1614; &#1605;&#1616;&#1593;&#1618;&#1591;&#1614;&#1575;&#1585;&#1616;.
+    </namerecord>
+  </name>
+
+</ttFont>
