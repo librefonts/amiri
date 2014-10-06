@@ -1,0 +1,180 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Amiri
+    Sub family: 91J6
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: حقوق النشر 2010-2012، خالد حسني <khaledhosny@eglug.org>.
+    License: Copyright (c) 2010, 2012, Khaled Hosny (<khaledhosny@eglug.org>),
+    License url: http://scripts.sil.org/OFL
+    Version: إصدارة 000٫104
+    Vendor url: http://www.amirifont.org
+    Designer: خالد حسني
+    Designer url: http://www.khaledhosny.org
+    Glyph count: 6168
+    Character count: 1501
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 21
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amiri
+    Sub family: عريض مائل
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: حقوق النشر 2010-2012، خالد حسني <khaledhosny@eglug.org>.
+    License: Copyright (c) 2010, 2012, Khaled Hosny (<khaledhosny@eglug.org>),
+    License url: http://scripts.sil.org/OFL
+    Version: إصدارة 000٫104
+    Vendor url: http://www.amirifont.org
+    Designer: خالد حسني
+    Designer url: http://www.khaledhosny.org
+    Glyph count: 6305
+    Character count: 1505
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 21
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amiri
+    Sub family: 9'/J
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: حقوق النشر 2010-2012، خالد حسني <khaledhosny@eglug.org>.
+    License: Copyright (c) 2010, 2012, Khaled Hosny (<khaledhosny@eglug.org>),
+    License url: http://scripts.sil.org/OFL
+    Version: إصدارة 000٫104
+    Vendor url: http://www.amirifont.org
+    Designer: خالد حسني
+    Designer url: http://www.khaledhosny.org
+    Glyph count: 6175
+    Character count: 1506
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 21
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Amiri
+    Sub family: E'&D
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: حقوق النشر 2010-2012، خالد حسني <khaledhosny@eglug.org>.
+    License: Copyright (c) 2010, 2012, Khaled Hosny (<khaledhosny@eglug.org>),
+    License url: http://scripts.sil.org/OFL
+    Version: إصدارة 000٫104
+    Vendor url: http://www.amirifont.org
+    Designer: خالد حسني
+    Designer url: http://www.khaledhosny.org
+    Glyph count: 6307
+    Character count: 1507
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: fragmentary
+          Percent coverage: 3
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 95
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 21
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
